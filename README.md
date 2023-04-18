@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Onur, I'm 35 years old, I'm from Germany near Dortmund and I'm just about to complete a bootcamp to become a frontend web developer.
+
+[my bootcamp](https://www.coding-bootcamps.eu/)
+
 <!--
 **yueksek-onur/yueksek-onur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
