@@ -4,7 +4,9 @@ My name is Onur, I'm 35 years old, I'm from Germany near Dortmund and I'm just a
 
 [my bootcamp](https://www.coding-bootcamps.eu/)
 
-![codewars](https://www.codewars.com/users/yueksek-onur/badges/large)
+
+
+[CodeWars profile](https://www.codewars.com/users/yueksek-onur)   ![codewars](https://www.codewars.com/users/yueksek-onur/badges/large)
 
 <!--
 **yueksek-onur/yueksek-onur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
