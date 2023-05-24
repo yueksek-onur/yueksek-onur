@@ -2,7 +2,7 @@
 
 My name is Onur, I'm 35 years old, I'm from Germany near Dortmund and I'm just about to complete a bootcamp to become a frontend web developer.
 
-![my bootcamp](https://www.coding-bootcamps.eu/)
+[my bootcamp](https://www.coding-bootcamps.eu/)
 
 ![codewars](https://www.codewars.com/users/yueksek-onur/badges/large)
 
