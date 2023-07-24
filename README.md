@@ -2,7 +2,10 @@
 
 <h2> Hi there 👋 </h2>
 <p>
-My name is Onur, I'm 35 years old, I'm from Germany near Dortmund and I'm just about to complete a bootcamp to become a frontend web developer.
+My name is Onur, I'm 35 years old, and I'm from Germany near Dortmund. Recently, I completed a boot camp where I learned VueJS.
+My final project was: <a href="https://cbe-lostandfound.netlify.app/" target="_blank" rel="noreferrer"> LOST&FOUND </a>
+Currently, I am learning the MERN stack.
+My goal is to become a Full Stack Developer.
 </p>
 
 <h3 align="left">CodeWars profile</h3>
