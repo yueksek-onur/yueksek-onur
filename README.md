@@ -11,7 +11,7 @@ My goal is to become a Full Stack Developer.
 <h3 align="left">CodeWars profile</h3>
 <p align="left">
   <a href="https://www.codewars.com/users/yueksek-onur" target="_blank" rel="noreferrer">
-    <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="css3" width="40" height="40" />
+    <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="css3" width="40" height="40" />
   </a>
 </p>
 
