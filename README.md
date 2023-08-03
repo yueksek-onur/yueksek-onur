@@ -1,6 +1,6 @@
-# Hi there I'm Onur 
+[![MasterHead](https://i.pinimg.com/originals/5f/08/50/5f08505655b858d52ea4ef07a6fa58d5.gif)]
 
-[![MasterHead](https://i.pinimg.com/originals/5f/08/50/5f08505655b858d52ea4ef07a6fa58d5.gif)]()
+# Hi there I'm Onur
 
 <p>
 My name is Onur Yüksek, I'm 35 years old, and I'm from Germany near Dortmund. Recently, I completed a boot camp where I learned VueJS.
