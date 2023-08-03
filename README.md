@@ -1,8 +1,9 @@
-# Onur Yüksek
+[![MasterHead](https://i.pinimg.com/originals/5f/08/50/5f08505655b858d52ea4ef07a6fa58d5.gif)]()
 
-<h2> Hi there 👋 </h2>
+# Hi there I'm Onur
+
 <p>
-My name is Onur, I'm 35 years old, and I'm from Germany near Dortmund. Recently, I completed a boot camp where I learned VueJS.
+My name is Onur Yüksek, I'm 35 years old, and I'm from Germany near Dortmund. Recently, I completed a boot camp where I learned VueJS.
 My final project was: <a href="https://cbe-lostandfound.netlify.app/" target="_blank" rel="noreferrer"> LOST&FOUND </a>
 Currently, I am learning the MERN stack.
 My goal is to become a Full Stack Developer.
@@ -61,7 +62,6 @@ My goal is to become a Full Stack Developer.
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" alt="vuejs" width="40" height="40" />
   </a>
 </p>
-
 
 <!--
 **yueksek-onur/yueksek-onur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
