@@ -1,4 +1,5 @@
 # Hi there I'm Onur
+![5f08505655b858d52ea4ef07a6fa58d5](https://github.com/yueksek-onur/yueksek-onur/assets/5917864/ac418647-c675-4523-8021-c58bc87b2b2c)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=4000&pause=1000&center=true&width=435&lines=+nice+that+you've+found+your+way+here)](https://git.io/typing-svg)
 
