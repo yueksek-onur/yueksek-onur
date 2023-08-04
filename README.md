@@ -1,8 +1,8 @@
-![Welcome](https://i.pinimg.com/originals/5f/08/50/5f08505655b858d52ea4ef07a6fa58d5.gif)
-
 # Hi there I'm Onur
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=4000&pause=1000&center=true&width=435&lines=+nice+that+you've+found+your+way+here)](https://git.io/typing-svg)
+
+![Welcome](https://i.pinimg.com/originals/5f/08/50/5f08505655b858d52ea4ef07a6fa58d5.gif)
 
 <p>
 My name is Onur Yüksek, I'm 35 years old, and I'm from Germany near Dortmund. Recently, I completed a boot camp where I learned VueJS.
