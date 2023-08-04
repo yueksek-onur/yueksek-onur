@@ -2,6 +2,8 @@
 
 # Hi there I'm Onur
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=4000&pause=1000&center=true&width=435&lines=+nice+that+you've+found+your+way+here)](https://git.io/typing-svg)
+
 <p>
 My name is Onur Yüksek, I'm 35 years old, and I'm from Germany near Dortmund. Recently, I completed a boot camp where I learned VueJS.
 My final project was: <a href="https://cbe-lostandfound.netlify.app/" target="_blank" rel="noreferrer"> LOST&FOUND </a>
@@ -62,5 +64,3 @@ My goal is to become a Full Stack Developer.
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" alt="vuejs" width="40" height="40" />
   </a>
 </p>
-
-
