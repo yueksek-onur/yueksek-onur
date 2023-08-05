@@ -27,9 +27,9 @@ My goal is to become a Full Stack Developer.
   </a>
 </p>
 
-[![Onur Yüksek's GitHub stats](https://github-readme-stats.vercel.app/api?username=yueksek-onur)](https://github-readme-stats.vercel.app/api?username=yueksek-onur)
+[![Onur Yüksek's GitHub stats](https://github-readme-stats.vercel.app/api?username=yueksek-onur&theme=transparent)](https://github-readme-stats.vercel.app/api?username=yueksek-onur&theme=transparent)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yueksek-onur&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=yueksek-onur&layout=compact)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yueksek-onur&layout=compact&theme=transparent)](https://github-readme-stats.vercel.app/api/top-langs/?username=yueksek-onur&layout=compact&theme=transparent)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
